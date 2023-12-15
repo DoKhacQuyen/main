@@ -1,5 +1,5 @@
 #!/bin/python3
-# ENCODE BY KHANHNGUYEN9872                                 # ĐỖ KHẮC QUYỀN
+# ENCODE BY KHANHNGUYEN9872                                 # ĐỖ KHẮC QUYỀN Đẹp Trai
 # Version OBF: v2.3.1                                       # ĐỖ KHẮC QUYỀN
 # Botname: @KazutoBot_bot                                   # ĐỖ KHẮC QUYỀN
 # Username Obf: @None (6321328587)                          # ĐỖ KHẮC QUYỀN
